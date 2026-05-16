@@ -1,0 +1,21 @@
+path: /content/drive/MyDrive/Dataset
+
+train: train/images
+val: val/images
+test: test/images
+
+nc: 13
+names:
+  - Bear
+  - Cheetah
+  - Crocodile
+  - Eagle
+  - Elephant
+  - Fox
+  - Leopard
+  - Lion
+  - Monkey
+  - Pig
+  - Scorpion
+  - Snake
+  - Tiger
