@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model weights
+best.pt
+
+# Uploaded and detected files
+static/uploads/
+static/detected/
+
+# Dataset files
+dataset/
+
+# Environment variables
+.env
